@@ -262,7 +262,7 @@ input {
 
 /*===== Home Section =====*/
 .home {
-  background: url("//assets/images/ME.png") no-repeat fixed center;
+  background: url("/assets/images/ME.png") no-repeat fixed center;
   background-size: cover;
   background-position: center center;
   height: 100vh;
