@@ -1169,6 +1169,9 @@ textarea.input {
 }
 
 @media screen and (max-width: 1408px) {
+  .main {
+    margin-right: -18vh;
+  }
   .container {
     margin-left: var(--mb-2-5);
     margin-right: var(--mb-2-5);
@@ -1176,6 +1179,9 @@ textarea.input {
 }
 
 @media screen and (max-width: 1216px) {
+  .main {
+    margin-right: -18vh;
+  }
   .about__container {
     column-gap: 2.5rem;
   }
@@ -1191,6 +1197,9 @@ textarea.input {
 }
 
 @media screen and (max-width: 1024px) {
+  .main {
+    margin-right: -31vh;
+  }
   .container {
     margin-left: var(--mb-1-5);
     margin-right: var(--mb-1-5);
