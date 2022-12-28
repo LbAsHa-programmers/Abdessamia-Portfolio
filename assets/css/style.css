@@ -55,6 +55,9 @@
     --small-font-size: 0.813rem;
     --smaller-font-size: 0.75rem;
   }
+  .nav__toggle {
+    z-index: 999;
+  }
 }
 
 /*=============== BASE ======*/
@@ -1254,6 +1257,7 @@ textarea.input {
 
   .nav__toggle {
     display: flex;
+    z-index: 999;
   }
 
   .main {
