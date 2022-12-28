@@ -129,7 +129,7 @@ inputs.forEach((input) => {
   input.addEventListener("blur", blurFunc);
 });
 
-/* Scroll Sections Active Link FHNCKJNCK JS CHNJDSJSCJSJCSJQSJJJQJDCQJ*/
+/* Scroll Sections Active Link */
 
 // get all sections that have an id defined
 const sections = document.querySelectorAll("section[id]");
